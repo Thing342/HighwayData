@@ -12,8 +12,8 @@ CR26 http://www.openstreetmap.org/?lat=37.513096&lon=-80.967779
 CR18/2 http://www.openstreetmap.org/?lat=37.544807&lon=-80.960290
 +X262762 http://www.openstreetmap.org/?lat=37.576113&lon=-80.911303
 CR20/2 http://www.openstreetmap.org/?lat=37.613993&lon=-80.916839
-WV3_E http://www.openstreetmap.org/?lat=37.650427&lon=-80.888772
-WV3_W http://www.openstreetmap.org/?lat=37.662760&lon=-80.899587
+WV3_E http://www.openstreetmap.org/?lat=37.650491&lon=-80.888579
+WV3_W http://www.openstreetmap.org/?lat=37.662794&lon=-80.899330
 WV107 http://www.openstreetmap.org/?lat=37.673767&lon=-80.891089
 17thAve http://www.openstreetmap.org/?lat=37.681783&lon=-80.875812
 MiniHerbRd http://www.openstreetmap.org/?lat=37.724293&lon=-80.889974
@@ -104,8 +104,9 @@ CR46 http://www.openstreetmap.org/?lat=39.164208&lon=-80.260792
 WV57 http://www.openstreetmap.org/?lat=39.177183&lon=-80.264225
 I-79 http://www.openstreetmap.org/?lat=39.226165&lon=-80.297045
 WV58 http://www.openstreetmap.org/?lat=39.251664&lon=-80.319371
-WV98 http://www.openstreetmap.org/?lat=39.264623&lon=-80.327268
-MainSt_E http://www.openstreetmap.org/?lat=39.273461&lon=-80.323405
+WV98 http://www.openstreetmap.org/?lat=39.264793&lon=-80.327306
+MainSt_E http://www.openstreetmap.org/?lat=39.273428&lon=-80.323469
+US50_Cla http://www.openstreetmap.org/?lat=39.276721&lon=-80.321911
 2ndSt http://www.openstreetmap.org/?lat=39.279640&lon=-80.338211
 CheSt http://www.openstreetmap.org/?lat=39.281268&lon=-80.344563
 US19_S http://www.openstreetmap.org/?lat=39.282181&lon=-80.351517
